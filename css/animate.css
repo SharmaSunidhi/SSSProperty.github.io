@@ -107,7 +107,8 @@ Copyright (c) 2015 Daniel Eden
   align-items: center;
   justify-content: center;
   margin-top: 10px;
-  font-size: 25px;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
 }
 
 @-webkit-keyframes flash {
