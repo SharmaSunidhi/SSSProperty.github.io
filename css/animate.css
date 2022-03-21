@@ -102,13 +102,14 @@ Copyright (c) 2015 Daniel Eden
 .contain {
   width: 100%;
   position: relative;
-  display: flex;
-  flex-direction: column;
+  margin-left: 100px;
+  /* display: flex;
+  flex-direction: column; */
   align-items: center;
-  justify-content: center;
+  justify-content: center; 
   margin-top: 10px;
-  font-size: 20px;
-  font-family: 'Playfair Display', serif;
+  font-size: 17px;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 @-webkit-keyframes flash {
